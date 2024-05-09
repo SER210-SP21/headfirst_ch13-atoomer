@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Guessing Game</string>
+
+    <string name="fragment_game">Game</string>
+    <string name="fragment_result">Result</string>
+
+    <string name="lives_left">You have %d lives left</string>
+    <string name="incorrect_guesses">Incorrect guesses: %s</string>
+</resources>
